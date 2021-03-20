@@ -1,6 +1,7 @@
 import { nanoid } from 'nanoid';
+import {isMobile} from 'react-device-detect';
 
-const mobileString = window.innerWidth < 769 ? 'Mobile' : '';
+const mobileString = isMobile ? 'Mobile' : '';
 // HEAD DATA
 export const headData = {
   title: 'Perabjoth Singh Bajwa', // e.g: 'Name | Developer'

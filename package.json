@@ -29,6 +29,7 @@
     "prop-types": "*",
     "react": "*",
     "react-bootstrap": "*",
+    "react-device-detect": "^1.17.0",
     "react-dom": "*",
     "react-github-btn": "*",
     "react-helmet": "*",
