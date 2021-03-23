@@ -6,7 +6,7 @@ const mobileString = isMobile ? 'Mobile' : '';
 export const headData = {
   title: 'Perabjoth Singh Bajwa', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Resume for Perabjoth Singh Bajwa', // e.g: Welcome to my website
+  description: 'Why are you looking me up? Well, since you\'re already here, come and visit my site.', // e.g: Welcome to my website
 };
 
 // HERO DATA
