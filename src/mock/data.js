@@ -41,12 +41,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: `SocialMedia${mobileString}.PNG`,
-    title: 'MERNG Social Media',
+    img: `REVVSuite${mobileString}.png`,
+    title: 'REVV Suite (Crypto P2E)',
     info: 'After my successful endeavor to build a React App, I decided to pursue something more challenging.',
-    info2: 'This is where I built a social media app using the MERNG stack (MongoDb, Express, React, Node, GraphQL).',
-    url: 'https://ecstatic-pasteur-46da55.netlify.app/',
-    repo: 'https://github.com/perabjoth/SocialMedia', // if no repo, the button will not show up
+    info2: 'This is where I built a suite of tools for a crypto play to earn game called REVV Racing. This uses react along with mongoDB and a server-less backend for data retrieval and few APIs.',
+    url: 'https://perabjoth.github.io/REVV-Suite/',
+    repo: 'https://github.com/perabjoth/REVV-Suite', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
