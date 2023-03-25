@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphOne: 'Experienced Implementation Consultant with a demonstrated history of working in the computer software industry.',
   paragraphTwo: 'Skilled in Web Development, Databases, Computer Science, and Communication.',
   paragraphThree: 'I am passionate about learning new technologies as well as making them run as fast as possible.',
-  resume: 'https://www.dropbox.com/s/dp8trufnptpx0es/Perabjoth%20Singh%20Bajwa%20Resume%205.0.pdf?dl=1', // if no resume, the button will not show up
+  resume: 'https://www.dropbox.com/s/cp62qbk8eebs85f/Perabjoth%20Singh%20Bajwa.pdf?dl=1', // if no resume, the button will not show up
   aboutButton: 'Download Resume',
   url: 'https://www.linkedin.com/in/perabjoth'
 };
